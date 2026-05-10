@@ -1,6 +1,6 @@
-# prestonfu.com
+# yidapan.org
 
-Source code for my [personal website](https://www.prestonfu.com/), hosted on
+Source code for my [personal website](https://www.yidapan.org/), hosted on
 GitHub Pages.
 
 This website is powered by [SvelteKit](https://kit.svelte.dev/) and
